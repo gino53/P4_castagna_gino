@@ -1,7 +1,25 @@
+.size18 {
+    font-size: 18px;
+}
+
 .size20 {
     font-size: 20px;
 }
 
+.size22 {
+    font-size: 22px;
+}
+
 .size24 {
     font-size: 24px;
+}
+
+.marg-bott {
+    margin-bottom: 50px;
+}
+
+.center {
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
 }
